@@ -3,6 +3,6 @@
 
 
 <!---
-J-o-n-a-s/J-o-n-a-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+J-o-n-a-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
