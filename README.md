@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=J-o-n-a-s&color=0000ff"><br>
 
-- 👋 Oi, eu sou o J-o-n-a-s S-i-l-v-a!
-- 👀 Eu tenho interesse em aprender tudo o que existe no mundo.
+- 👋 Hello, my name is J-o-n-a-s S-i-l-v-a!
+- 👀 I'm interested in learning everything that exists in the world.
 
 
 <!---
