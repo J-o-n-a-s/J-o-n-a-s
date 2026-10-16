@@ -33,8 +33,3 @@ I'm interested in understanding how things work, exploring different subjects, d
 I believe experience is valuable, but curiosity is what keeps us moving forward.
 
 **There's always something new to learn, discover, or build.**
-
-<!---
-J-o-n-a-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
