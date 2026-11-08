@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=J-o-n-a-s&color=0000ff" alt="Profile views">
 
-# Hi, I'm Jonas Silva! 👋
+# Hi, I'm Jonas! 👋
 
 **Mechatronics Engineer & Technologist | Industrial Automation | Technology Enthusiast**
 
